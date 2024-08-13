@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am currently a first year Ph.D. Student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), [University of Miami](https://welcome.miami.edu/), under the supervision of [Dr. Mingzhe Chen](https://scholar.google.com/citations?hl=zh-CN&user=Pe3kIocAAAAJ&view_op=list_works&sortby=pubdate).<br>
+
 My research interest includes on UAV networks, integrated sensing and communications, movable antenna system and machine learning-based communications.
 
 Educational Background
