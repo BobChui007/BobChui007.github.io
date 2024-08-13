@@ -29,5 +29,5 @@ Serves as a reviewer in IEEE Transactions on Industrial Informatics and IEEE Tra
 
 Contact Information
 ======
-Email: xyx72@miami.edu<br>
+Email: xyx72@miami.edu  
 Phone: +1 786-747-6338
