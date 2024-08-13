@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoren Xu"
+title: "Xiaoren Xu - About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +12,10 @@ My research interest includes on UAV networks, integrated sensing and communicat
 
 Educational Background
 ======
-*Nanjing Forestry University<br>
+* Nanjing Forestry University<br>
 Bachelor of Engineering in Electronic and Information Engineering (Sept 2020-June 2024)
 
-*University of Miami<br>
+* University of Miami<br>
 Doctor of Philosophy in Electrical and Computer Engineering (Aug 2024-Present)
 
 Publications
