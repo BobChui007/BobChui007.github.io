@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoren Xu / About Me"
+title                    : "Xiaoren Xu / Profile"
 title_separator          : "-"
 name                     : &name "Xiaoren Xu"
 description              : &description "A Ph.D. Student"
