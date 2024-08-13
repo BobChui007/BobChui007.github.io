@@ -1,20 +1,21 @@
 ---
 permalink: /
-title: "Xiaoren Xu - Profile"
+title: "Xiaoren Xu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a first year Ph.D. Student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), [University of Miami](https://welcome.miami.edu/), under the supervision of [Dr. Mingzhe Chen](https://scholar.google.com/citations?hl=zh-CN&user=Pe3kIocAAAAJ&view_op=list_works&sortby=pubdate). My research interest includes on UAV networks, integrated sensing and communications, movable antenna system and machine learning-based communications.
+I am currently a first year Ph.D. Student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), [University of Miami](https://welcome.miami.edu/), under the supervision of [Dr. Mingzhe Chen](https://scholar.google.com/citations?hl=zh-CN&user=Pe3kIocAAAAJ&view_op=list_works&sortby=pubdate).<br>
+My research interest includes on UAV networks, integrated sensing and communications, movable antenna system and machine learning-based communications.
 
-Education Background
+Educational Background
 ======
-Nanjing Forestry University
+Nanjing Forestry University<br>
 Bachelor of Engineering in Electronic and Information Engineering (Sept 2020-June 2024)
 
-University of Miami
+University of Miami<br>
 Doctor of Philosophy in Electrical and Computer Engineering (Aug 2024-Present)
 
 Publications
@@ -29,5 +30,5 @@ Serves as a reviewer in IEEE Transactions on Industrial Informatics and IEEE Tra
 
 Contact Information
 ======
-Email: xyx72@miami.edu  
+Email: xyx72@miami.edu<br>  
 Phone: +1 786-747-6338
