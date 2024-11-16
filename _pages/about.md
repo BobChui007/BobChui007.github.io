@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a first year Ph.D. Student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), [University of Miami](https://welcome.miami.edu/), under the supervision of [Dr. Mingzhe Chen](https://scholar.google.com/citations?hl=zh-CN&user=Pe3kIocAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
-My research interest includes UAV networks, integrated sensing and communications, movable antenna system and machine learning-based communications.
+My research interest includes UAV networks, integrated sensing and communications, movable antenna/fluid antenna system and machine learning-based communications.
 
 Educational Background
 ======
@@ -28,7 +28,8 @@ Publications
 Academic Service
 ======
 Serves as a reviewer in IEEE Transactions on Industrial Informatics and IEEE Transactions on Green Communications and Networking.
+Serves as a TPC member in IEEE Consumer Communications & Networking Conference (CCNC).
 
 Contact Information
 ======
-Email: xyx72@miami.edu<br>Phone: +1 786-747-6338
+Email: xiaoren.xu@miami.edu<br>Phone: +1 786-747-6338
