@@ -28,7 +28,7 @@ Publications
 
 Academic Service
 ======
-Serves as a reviewer in IEEE Transactions on Industrial Informatics, IEEE Transactions on Green Communications and Networking, IEEE Transactions on Machine Learning in Communications and Networking, IEEE Wireless Communications Letters.
+Serves as a reviewer in IEEE Transactions on Industrial Informatics, IEEE Transactions on Green Communications and Networking, IEEE Transactions on Machine Learning in Communications and Networking, IEEE Wireless Communications Letters.<br>
 Serves as a reviewer in IEEE Consumer Communications & Networking Conference (CCNC), IEEE International Conference on Communications (ICC), IEEE International Conference on Computer Communications Workshop (INFOCOM WKSHPS), IEEE Vehicular Technology Conference Workshops (VTC Workshops).
 
 Contact Information
