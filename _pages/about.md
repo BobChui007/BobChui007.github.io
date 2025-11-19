@@ -27,7 +27,7 @@ Publications
 4. Y. -H. Xu, R. -X. Ding, X. -R. Xu, D. Zhou and W. Zhou, "A DDPG Hybrid with Graph Scheme for Resource Management in Digital Twin-assisted Biomedical Cyber-Physical Systems,"_IEEE Transactions on Network and Service Management, early access 2025.
 5. X. Xu, H. Xu, H. Yu, Y. Liu, and M. Chen, "Fluid Antenna System (FAS)-assisted 3D UAV Positioning Performance Optimization ", in Proc. IEEE International Conference on Communications (ICC), accepted, 2025.
 6. D. Wei, X. Xu, S. Mao and M. Chen, "Optimizing Communication and Device Clustering for Clustered Federated Learning With Differential Privacy,"_IEEE Transactions on Mobile Computing, early access 2025.
-7. X. Xu, H. Xu, D. Wei, W. Saad, M. Bennis, and M. Chen, "Transformer based Collaborative Reinforcement Learning for Fluid Antenna System (FAS)-enabled 3D UAV Positioning", arXiv:2507.09094.
+7. X. Xu, H. Xu, D. Wei, W. Saad, M. Bennis and M. Chen, "Transformer based Collaborative Reinforcement Learning for Fluid Antenna System (FAS)-enabled 3D UAV Positioning," in IEEE Journal on Selected Areas in Communications, to appear, 2025.
 8. D. Wei, X. Xu, Y. Liu, H V. Poor, and M. Chen, "Optimizing Model Splitting and Device Task Assignment for Deceptive Signal Assisted Private Multi-hop Split Learning", arXiv:2507.07323.
 9. X. Xu, D. Wei, Y. Hu, Z. Yang, and M. Chen, "Joint Trajectory and Antenna Port Selection Optimization for Fluid Antenna System-enabled Resilient UAV Networks", in Proc. IEEE Global Communications Conference (Globecom), accepted, 2025.
 
@@ -35,7 +35,7 @@ Publications
 
 Professional Service
 ======
-Serves as a reviewer in Journals: <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters.
+Serves as a reviewer in Journals: <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters, <br>IEEE Communications Magazine.
 <br><br>Serves as a reviewer in Conferences: <br>IEEE Consumer Communications & Networking Conference (CCNC), <br>IEEE International Conference on Communications (ICC), <br>IEEE International Conference on Computer Communications Workshop (INFOCOM WKSHPS), <br>IEEE Vehicular Technology Conference Workshops (VTC Workshops).
 <br><br>IEEE Student Member.
 <br><br>University of Miami ECE-Ph.D. student representative (Ph.D. advisory committee).
@@ -48,4 +48,4 @@ Swimming, table tennis, badminton, volleyball, calligraphy, and so on.
 
 Contact Information
 ======
-Email: xiaoren.xu@miami.edu<br>Phone: +1 786-747-6338
+Email: xiaoren.xu@miami.edu
