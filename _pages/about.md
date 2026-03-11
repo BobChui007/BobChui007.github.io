@@ -13,13 +13,13 @@ My research interest includes UAV networks, integrated sensing and communication
 
 Educational Background
 ======
-* University of Miami<br>,Miami, U.S.A.<br>
+* University of Miami<br>Miami, U.S.A.<br>
 Doctor of Philosophy in Electrical and Computer Engineering (Aug 2024-Present)
 
 * Nanjing Forestry University<br>Nanjing, China<br>
 Bachelor of Engineering in Electronic and Information Engineering (Sept 2020-June 2024)
 
-* Dongguan High School<br>,Dongguan, China.<br>
+* Dongguan High School<br>Dongguan, China<br>
 High School Diploma in Science (Sept 2017-July 2020)
 
 
