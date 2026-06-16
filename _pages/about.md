@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a second year Ph.D. Student from the department of [Electrical and Computer Engineering](https://ece.coe.miami.edu/index.html), [University of Miami](https://welcome.miami.edu/), under the supervision of [Dr. Mingzhe Chen](https://scholar.google.com/citations?hl=zh-CN&user=Pe3kIocAAAAJ&view_op=list_works&sortby=pubdate).<br>
 
-My research interest includes UAV networks, integrated sensing and communications, resilient networks, movable antenna/fluid antenna system and machine learning-based communications.
+My research interest includes UAV networks, integrated sensing and communications, resilient networks, movable antenna/fluid antenna system, XL-MIMO, and machine learning-based communications.
 
 Educational Background
 ======
@@ -37,10 +37,10 @@ Publications
 
 
 
-Professional Service
+Service
 ======
-Serves as a reviewer in Journals: <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Wireless Communications, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters, <br>IEEE Communications Magazine.
-<br><br>Serves as a reviewer in Conferences: <br>IEEE Consumer Communications & Networking Conference (CCNC), <br>IEEE International Conference on Communications (ICC), <br>IEEE International Conference on Computer Communications Workshop (INFOCOM WKSHPS), <br>IEEE Vehicular Technology Conference (VTC).
+Serves as a reviewer in Journals: <br>IEEE Journal on Selected Areas in Communications, <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Wireless Communications, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters, <br>IEEE Communications Magazine.
+<br><br>Serves as a reviewer in Conferences: <br>IEEE Consumer Communications & Networking Conference (CCNC), <br>IEEE Global Communications Conference (GLOBECOM), <br>IEEE International Conference on Communications (ICC), <br>IEEE International Conference on Computer Communications Workshop (INFOCOM WKSHPS), <br>IEEE Vehicular Technology Conference (VTC).
 <br><br>IEEE Graduate Student Member.
 <br><br>University of Miami ECE-Ph.D. student representative (Ph.D. advisory committee).
 
