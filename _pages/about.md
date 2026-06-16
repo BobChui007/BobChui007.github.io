@@ -51,6 +51,11 @@ Swimming, table tennis, badminton, volleyball, calligraphy, traveling and so on.
 I do like Cantonese pop songs, especially the songs of Jacky Cheung and Kelly Chen ....
 
 
+Language
+======
+English, Cantonese, and Chinese Mandarin
+
+
 Contact Information
 ======
 Email: xiaoren.xu@miami.edu
