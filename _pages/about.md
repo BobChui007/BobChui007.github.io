@@ -39,7 +39,7 @@ Publications
 
 Service
 ======
-Serves as a reviewer in Journals: <br>IEEE Journal on Selected Areas in Communications, <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Wireless Communications, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters, <br>IEEE Communications Magazine.
+Serves as a reviewer in Journals: <br>IEEE Journal on Selected Areas in Communications, <br>IEEE Transactions on Industrial Informatics, <br>IEEE Transactions on Wireless Communications, <br>IEEE Transactions on Mobile Computing, <br>IEEE Transactions on Communications, <br>IEEE Transactions on Cognitive Communications and Networking, <br>IEEE Transactions on Green Communications and Networking, <br>IEEE Transactions on Machine Learning in Communications and Networking, <br>IEEE Wireless Communications Letters, <br>IEEE Communications Letters, <br>IEEE Geoscience and Remote Sensing Letters, <br>IEEE Communications Magazine.
 <br><br>Serves as a reviewer in Conferences: <br>IEEE Consumer Communications & Networking Conference (CCNC), <br>IEEE Global Communications Conference (GLOBECOM), <br>IEEE International Conference on Communications (ICC), <br>IEEE International Conference on Computer Communications Workshop (INFOCOM WKSHPS), <br>IEEE Vehicular Technology Conference (VTC).
 <br><br>IEEE Graduate Student Member.
 <br><br>University of Miami ECE-Ph.D. student representative (Ph.D. advisory committee).
@@ -48,7 +48,7 @@ Serves as a reviewer in Journals: <br>IEEE Journal on Selected Areas in Communic
 Hobbies
 ======
 Swimming, table tennis, badminton, volleyball, calligraphy, traveling and so on.<br>
-I do like Cantonese pop songs, especially the songs of Jacky Cheung, Leon Lai, Kelly Chen ....
+I do like Cantonese pop songs, especially the songs of Jacky Cheung and Kelly Chen ....
 
 
 Contact Information
